@@ -579,20 +579,20 @@ h1.arrow span {
 	background-size:cover;
 }
 .color-bg {
-	background: #A5D0A8;
+	background: #FFFFFF;
 }
 
 .color-bg a {
     color: #B26E63;
 }
 .color-bg h6, .color-bg p {
-    color: white;
+    color: black;
 }
 .color-bg h6::after{
 	border-color: #fff;
 }
 .color-bg .weight-outline-btn {
-    color: white;
+    color: black;
     border-color: white;
 }
 .color-bg .weight-outline-btn:hover {
@@ -612,7 +612,7 @@ h1.arrow span {
     color: #B26E63;
 }
 .color-bg h1.arrow {
-    color: #FFF;
+    color: black;
 }
 /* ==========================================================================Services========================================================================== */
 .services {
