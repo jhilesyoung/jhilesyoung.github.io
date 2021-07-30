@@ -676,6 +676,41 @@ i.respons {
 	border:1px solid #CCCCCC;
 	color: #CCCCCC;
 }
+
+.languages {
+	display: flex;
+    position: relative;
+    left: 14px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.languages-heading {
+	font-size: 16px;
+	text-transform:uppercase;
+	color:#353535;
+	font-weight: bold;
+	color:#353535;
+	letter-spacing: 4px;
+	background:url('../img/h1-bg.png') no-repeat center bottom;
+	padding-bottom:30px;
+}
+.grid-container {
+	display: grid;
+	grid-row-gap: 25px;
+	grid-template-columns: auto auto auto;
+	padding: 10px;
+}
+
+.grid-item {
+	padding: 1px;
+    padding-left: 0px;
+    padding-right: 14px;
+    font-size: 30px;
+    text-align: center;
+}
+  }
+ 
 /* ==========================================================================iPhone Section========================================================================== */
 .iphone {
 	width:50%;
